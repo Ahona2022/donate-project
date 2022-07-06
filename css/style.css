@@ -1,0 +1,201 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+}
+h1
+{
+    font-size: 70px;
+}
+h2
+{
+    font-size: 50px;
+}
+h3
+{
+    font-size: 25px;
+}
+h4
+{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h5
+{
+    font-size: 15px;
+}
+p
+{
+    font-size: 17px;
+}
+hr
+{
+    width: 60%;
+    vertical-align: center;
+    display: inline-block;
+    border-top: 2px solid #707070;
+}
+section
+{
+    height: 700px;
+}
+.top-banner
+{
+    background-image: url("../images/donation13.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.first
+{
+    text-align: center;
+    padding-top: 250px;
+    color: white;
+}
+.second
+{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+.third
+{
+    margin-top: 40px;
+    text-align: center;
+}
+.link-button
+{
+    color: white;
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 15px 25px;
+    border-radius: 5px;
+}
+.donate-section
+{
+    text-align: center;
+    margin-top: 100px;
+}
+.donate
+{
+    margin-bottom: 30px;
+}
+.status
+{
+    margin-bottom: 50px;
+    color: #707070;
+}
+.amount
+{
+    width: 100%;
+    color: #707070;
+}
+.fourth-width
+{
+    vertical-align: center;
+    display: inline-block;
+    padding: 50px;
+}
+#highlight
+{
+    border: 3px solid #FF5959;
+    color: #FF5959;
+    border-radius: 5px;
+    background-color: #FFEEEE;
+}
+.other
+{
+    color: #707070;
+    margin-top: 100px;
+}
+.plan-section
+{
+    text-align: center;
+}
+.triple-width
+{
+    width: 25%;
+    float: left;
+    margin-left: 70px;
+    text-align: left;
+}
+#first-background
+{
+    background-color: rgba(79, 157, 166, 0.1);
+    padding-top: 75px;
+    padding-bottom: 75px;
+    border-radius: 5px;
+    padding-left: 25px;
+}
+#second-background
+{
+    background-color: rgba(255, 89, 89, 0.1);
+    padding-top: 75px;
+    padding-bottom: 75px;
+    border-radius: 5px;
+    padding-left: 25px;
+}
+#third-background
+{
+    background-color: rgba(255, 244, 214, 1);
+    padding-top: 75px;
+    padding-bottom: 75px;
+    border-radius: 5px;
+    padding-left: 25px;
+}
+.half-width
+{
+    width: 35%;
+    float: left;
+    margin-left: 100px;
+}
+.half-width p
+{
+    color: #707070;
+}
+.button
+{
+    margin-top: 25px;
+}
+.update-section
+{
+    text-align: center;
+}
+.update
+{
+    margin-bottom: 30px;
+}
+.email-section
+{
+    background-color: #FFF4D6;
+    margin-left: 350px;
+    margin-right: 350px;
+    padding: 100px;
+}
+.email
+{
+    width: 50%;
+    padding: 15px 25px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: #D9D9D9;
+    color: #AA9F9F;
+    border: none;
+}
+.footer-section
+{
+    background-color: rgba(11, 13, 23, 1);
+    height: 200px;
+}
+.footer
+{
+    color: #FF5959;
+    text-align: center;
+    padding-top: 70px;
+}
+.footer p
+{
+    color: white;
+    margin-top: 25px;
+}
